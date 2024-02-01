@@ -40,7 +40,7 @@ fetch('./data.json')
             a.onclick = () => {
     
                 localStorage.idNum = i ;
-    
+                localStorage.lecturetitleUp = a.children[1].children[0].innerHTML;
             }
         });
     }
