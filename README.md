@@ -1,5 +1,5 @@
 # 프로젝트명: 클리안
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="javascript.js Logo" width="500" height="500">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="javascript.js Logo" width="350" height="350">
 
 ### 리뉴얼 사이트 선정 이유 및 개선사항
 
