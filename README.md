@@ -19,5 +19,10 @@
    2023.12.18
 
 -------------
+✨🎺✨
+data.json의 데이터를 fetch를 통해 요청해서 가져오고 jquery로 뿌려주었습니다.
 
+
+
+-------------
 📢<a href="https://repeat0105.github.io/cliening_one/"> 시연사이트 <a/>
