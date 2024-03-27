@@ -20,7 +20,9 @@
 
 -------------
 ✨🎺✨
+
 -data.json의 데이터를 fetch를 통해 요청해서 가져오고 jquery로 뿌려주었습니다.
+
 -meta, favicon을 사용해 봤고 javascript에서 matchMedia를 활용해 반응형을 구현했습니다.
 
 -------------
