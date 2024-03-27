@@ -24,6 +24,7 @@
 -data.json의 데이터를 fetch를 통해 요청해서 가져오고 jquery로 뿌려주었습니다.
 
 -document.querySelector, .onclick, 등으로 클레스를 가져오거나 이벤트를 주고 
+ .classList.toggle, .style.display로 팝업창을 on,off를 했습니다.
  
 
 -localStorage를 클릭하거나 검색해서 데이터를 저장하고 저장된 데이터를 기준으로 화면을 보여주는 기능을 구현해봤습니다.
