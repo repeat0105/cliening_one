@@ -28,4 +28,4 @@
 -meta, favicon을 사용해 봤고 javascript에서 matchMedia를 활용해 반응형을 구현했습니다.
 
 -------------
-📢<a href="https://repeat0105.github.io/cliening_one/"> 시연사이트 <a/>
+## 📢<a href="https://repeat0105.github.io/cliening_one/"> 시연사이트 <a/>
