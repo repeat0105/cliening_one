@@ -1,5 +1,5 @@
 # 프로젝트명: 클리안
-
+<img src="https://https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="Next.js Logo" width="500" height="auto">
 
 ### 리뉴얼 사이트 선정 이유 및 개선사항
 
