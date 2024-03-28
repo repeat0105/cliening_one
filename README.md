@@ -27,7 +27,7 @@
  .classList.toggle, .style.display로 팝업창을 on,off를 했습니다.
  
 
--localStorage를 클릭하거나 검색해서 데이터를 저장하고 저장된 데이터를 기준으로 화면을 보여주는 기능을 구현해봤습니다.
+-클릭,체인지이벤트를 활용해서 localStorage를  데이터를 저장하고 저장된 데이터를 기준으로 화면을 보여주는 기능을 구현해봤습니다.
 
 -meta, favicon을 사용해 봤고 javascript에서 matchMedia를 활용해 반응형을 구현했습니다.
 
