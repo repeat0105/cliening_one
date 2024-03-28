@@ -1,6 +1,7 @@
 # 프로젝트명: 클리안
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="javascript.js Logo" width="200" height="200">
-
+<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/103778198_1193942734298367_1296511576315298557_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=F8knboOhkOIAX9zxWB8&_nc_ht=scontent-ssn1-1.xx&oh=00_AfB18u9tL4JjRHXVoO6ew6r0A_whkmk06T7AgTPKozDK3w&oe=662C4ADA
+" alt="javascript.js Logo" width="200" height="200">
 ### 리뉴얼 사이트 선정 이유 및 개선사항
 
 🔊 IT 및 취미 커뮤니티 사이트 디자인, ui/ux가 조금 밖에 없다.  
