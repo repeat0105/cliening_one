@@ -1,6 +1,7 @@
 # 프로젝트명: 클리안
+<img src="https://t1.daumcdn.net/news/202110/07/ked/20211007094406550upda.jpg" alt="javascript.js Logo" width="500" height="400">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/946px-Javascript_badge.svg.png" alt="javascript.js Logo" width="200" height="200">
-<img src="https://t1.daumcdn.net/news/202110/07/ked/20211007094406550upda.jpg" alt="javascript.js Logo" width="200" height="200">
+
 ### 리뉴얼 사이트 선정 이유 및 개선사항
 
 🔊 IT 및 취미 커뮤니티 사이트 디자인, ui/ux가 조금 밖에 없다.  
